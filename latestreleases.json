@@ -1,0 +1,85 @@
+{
+    "latest":
+    [
+        {
+            "id":"1001",
+            "image":"img/m1.jpg",
+            "title":"Venom",
+            "desc":"Action Thriller",
+            "star":"9.5",
+            "time":"120"
+        },
+        {
+            "id":"1002",
+            "image":"img/m2.jpg",
+            "title":"Dunkerk",
+            "desc":"Action War",
+            "star":"9",
+            "time":"130"
+        },
+        {
+            "id":"1003",
+            "image":"img/m3.jpg",
+            "title":"Batman",
+            "desc":"Action Fantasy",
+            "star":"8",
+            "time":"125"
+        },
+        { 
+            "id":"1004",
+            "image":"img/m4.jpg",
+            "title":"John Wick",
+            "desc":"Action Violence",
+            "star":"7",
+            "time":"115"
+        },
+        { 
+            "id":"1005",
+            "image":"img/m5.jpg",
+            "title":"Aquaman",
+            "desc":"Action Fantasy",
+            "star":"8",
+            "time":"117"
+        },
+        {
+            "id":"1006",
+            "image":"img/m6.jpg",
+            "title":"Black Panther",
+            "desc":"Action Fantasy",
+            "star":"9",
+            "time":"135"
+        },
+        {
+            "id":"1007",
+            "image":"img/m7.jpg",
+            "title":"Thor",
+            "desc":"Action Mystic",
+            "star":"8",
+            "time":"124"
+        },
+        {
+            "id":"1008",
+            "image":"img/m8.png",
+            "title":"Bumblebee",
+            "desc":"Action Violence",
+            "star":"7.5",
+            "time":"120"
+        },
+        {
+            "id":"1009",
+            "image":"img/m9.jpg",
+            "title":"Mortal",
+            "desc":"Action Mystic",
+            "star":"9",
+            "time":"105"
+        },
+        { 
+            "id":"1010",
+            "image":"img/m10.jpg",
+            "title":"Underworld",
+            "desc":"Action Horror",
+            "star":"9.5",
+            "time":"128"
+        }
+    ]
+}

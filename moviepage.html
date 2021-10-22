@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Venom</title>
+    <link rel="stylesheet" href="style2.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="movie.js" defer></script>
+</head>
+<body>
+    <header>
+        <a href="#" class="logo"><img src="logo.png" alt="logo"></a>
+        <div class="toggle"><a href="../index.html"><img src="../movies/toggle.png" alt=""></a></div>
+    </header>
+    <div class="banner" id="banners">   
+    </div>
+
+    <div class="trailer">
+        <video src="venom.mp4" controls="true"></video>
+        <img src="close.png" alt="Close" onclick="toggle()" class="close">
+    </div>
+    <script>
+        function toggle(){
+            var trailer = document.querySelector('.trailer');
+            let video = document.querySelector('.video');
+            trailer.classList.toggle('active');
+            video.currentTime = 0;
+            video.pause();
+        }
+    </script>
+</body>
+</html>

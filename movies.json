@@ -1,0 +1,126 @@
+{
+    "banner":
+    [
+        {
+            "id":"1001",
+            "title":"Venom",
+            "bg":"bg.jpg",
+            "brief": "Venom is a 2018 American superhero film featuring the Marvel Comics character of the same name, produced by Columbia Pictures in association with Tencent Pictures. Distributed by Sony Pictures Releasing, d Kelly Marcel, it stars Tom Hardy as Eddie Brock / Venom, alongside Michelle Williams, Riz Ahmed, Scott Haze, and Reid Scott. In the film, journalist Brock gains superpowers after becoming the host of an alien symbiote whose species plans to invade Earth."
+        },
+        {
+            "id":"1002",
+            "title":"Dunkerk",
+            "bg":"bg2.jpg",
+            "brief":"Dunkirk is a 2017 war film written, directed, and produced by Christopher Nolan that depicts the Dunkirk evacuation of World War II through the perspectives of the land, sea, and air. Its ensemble cast includes Fionn Whitehead, Tom Glynn-Carney, Jack Lowden, Harry Styles, Aneurin Barnard, James D'Arcy, Barry Keoghan, Kenneth Branagh, Cillian Murphy, Mark Rylance, and Tom Hardy.Dunkirk portrays the evacuation with little dialogue, as Nolan sought instead to create suspense from cinematography and music. Filming began in May 2016 in Dunkirk and ended that September in Los Angeles, when post-production began. Cinematographer Hoyte van Hoytema shot the film on IMAX 65 mm and 65 mm large-format film stock. Dunkirk has extensive practical effects, and employed thousands of extras as well as historic boats from the evacuation, and period aeroplanes."
+        },
+        {
+            "id":"1003",
+            "title":"Batman",
+            "bg":"bg3.jpg",
+            "brief":"Batman v Superman: Dawn of Justice is a 2016 American superhero film based on the DC Comics characters Batman and Superman. It is a follow-up to Man of Steel (2013) and the second installment in the DC Extended Universe (DCEU).[4] The film was directed by Zack Snyder, written by Chris Terrio and David S. Goyer, and features an ensemble cast that includes Ben Affleck, Henry Cavill, Amy Adams, Jesse Eisenberg, Diane Lane, Laurence Fishburne, Jeremy Irons, Holly Hunter, and Gal Gadot. Batman v Superman: Dawn of Justice is the first live-action film to feature Batman and Superman together, as well as the first live-action cinematic portrayal of Wonder Woman. In the film, criminal mastermind Lex Luthor manipulates Batman into a preemptive battle with Superman, with whom Luthor is obsessed."
+        },
+        {
+            "id":"1004",
+            "title":"John Wick",
+            "bg":"bg4.jpg",
+            "brief":"John Wick is a 2014 American neo-noir action thriller film directed by Chad Stahelski, in his directorial debut, and written by Derek Kolstad. It stars Keanu Reeves, Michael Nyqvist, Alfie Allen, Adrianne Palicki, Bridget Moynahan, Dean Winters, Ian McShane, John Leguizamo, and Willem Dafoe. It is the first installment in the John Wick franchise.The story focuses on John Wick (Reeves) searching for the men who broke into his home, stole his vintage car and killed his puppy, which was a last gift to him from his recently deceased wife.[6] Chad Stahelski and David Leitch directed the film together, though only Stahelski was credited.[1] Kolstad had completed the screenplay in 2012 and further developed it for Thunder Road Pictures.[7] The film was produced by Basil Iwanyk of Thunder Road Pictures, Leitch, Eva Longoria, and Michael Witherill. It marks Stahelski and Leitch's directorial debut as a team after multiple separate credits as second-unit directors and stunt coordinators. They previously worked with Reeves as stunt doubles on The Matrix trilogy.[8]"
+        },
+        {
+            "id":"1005",
+            "title":"Aquaman",
+            "bg":"bg5.jpg",
+            "brief":"Aquaman is a 2018 American superhero film based on the DC Comics character of the same name. Distributed by Warner Bros. Pictures, it is the sixth film in the DC Extended Universe (DCEU). The film was directed by James Wan, from a screenplay by David Leslie Johnson-McGoldrick and Will Beall. It stars Jason Momoa as Aquaman, who sets out to lead the underwater kingdom of Atlantis and stop his half-brother, King Orm, from uniting the seven underwater kingdoms to destroy the surface world. Amber Heard, Willem Dafoe, Patrick Wilson, Dolph Lundgren, Yahya Abdul-Mateen II, Ludi Lin, Temuera Morrison and Nicole Kidman appear in supporting roles."
+        },
+        {
+            "id":"1006",
+            "title":"Black Panther",
+            "bg":"bg6.jpg",
+            "brief":"Black Panther is a 2018 American superhero film based on the Marvel Comics character of the same name. Produced by Marvel Studios and distributed by Walt Disney Studios Motion Pictures, it is the 18th film in the Marvel Cinematic Universe (MCU). The film was directed by Ryan Coogler, who co-wrote the screenplay with Joe Robert Cole, and it stars Chadwick Boseman as T'Challa / Black Panther alongside Michael B. Jordan, Lupita Nyong'o, Danai Gurira, Martin Freeman, Daniel Kaluuya, Letitia Wright, Winston Duke, Angela Bassett, Forest Whitaker, and Andy Serkis. In Black Panther, T'Challa is crowned king of Wakanda following his father's death, but he is challenged by Killmonger (Jordan) who plans to abandon the country's isolationist policies and begin a global revolution."
+        },
+        {
+            "id":"1007",
+            "title":"Thor",
+            "bg":"bg7.jpg",
+            "brief":"Thor is a 2011 American superhero film based on the Marvel Comics character of the same name. Produced by Marvel Studios and distributed by Paramount Pictures,[N 1] it is the fourth film in the Marvel Cinematic Universe (MCU). It was directed by Kenneth Branagh, written by the writing team of Ashley Edward Miller and Zack Stentz along with Don Payne, and stars Chris Hemsworth as the title character alongside Natalie Portman, Tom Hiddleston, Stellan Skarsgård, Colm Feore, Ray Stevenson, Idris Elba, Kat Dennings, Rene Russo, and Anthony Hopkins. After reigniting a dormant war, Thor is banished from Asgard to Earth, stripped of his powers and his hammer Mjölnir. As his brother Loki (Hiddleston) plots to take the Asgardian throne, Thor must prove himself worthy."
+        },
+        {
+            "id":"1008",
+            "title":"Bumblebee",
+            "bg":"bg8.jpg",
+            "brief":"Bumblebee is a 2018 American science fiction action film centered on the Transformers character of the same name. It is the sixth installment of the live-action Transformers film series. Developed as a spin-off and prequel, it was later declared a reboot of the franchise.[9][10] Directed by Travis Knight and written by Christina Hodson, the film stars Hailee Steinfeld, John Cena, Jorge Lendeborg Jr., John Ortiz, Jason Drucker, and Pamela Adlon and stars Dylan O'Brien (as the title character), Angela Bassett, Justin Theroux, and Peter Cullen in voice roles. It was Knight's first live-action film,[11] as well as the first live-action Transformers film not to be directed by Michael Bay, who instead acts as a producer. Principal photography on the film began on July 31, 2017, in Los Angeles and San Francisco, California."
+        },
+        {
+            "id":"1009",
+            "title":"Mortal",
+            "bg":"bg9.jpg",
+            "brief":"Mortal Engines is a 2018 steampunk film directed by Christian Rivers and with a screenplay by Fran Walsh, Philippa Boyens, and Peter Jackson, based on the 2001 novel of the same name by Philip Reeve, and starring Hera Hilmar, Robert Sheehan, Hugo Weaving, Jihae, Ronan Raftery, Leila George, Patrick Malahide, Regé Jean Page and Stephen Lang. An American–New Zealand co-production, the film is set in a post-apocalyptic world where entire cities have been mounted on wheels and motorised, and practice municipal Darwinism; its movie universe is different from that of the books."
+        },
+        {
+            "id":"1010",
+            "title":"Underworld",
+            "bg":"bg10.jpg",
+            "brief":"Underworld is a 2003 action horror film directed by Len Wiseman and written by Danny McBride, based on a story by Kevin Grevioux, Wiseman and McBride. Kevin Grevioux wrote the original screenplay. The film centers on the secret history of vampires and lycans (an abbreviated form of lycanthrope, which means werewolf). can, Selene must decide whether to do her duty and kill him or go against her clan and save him. Alongside Beckinsale and Speedman, the film stars Michael Sheen, Shane Brolly, and Bill Nighy."
+        },
+        {
+            "id":"1011",
+            "title":"Jhonny English",
+            "bg":"bg11.jpg",
+            "brief":"Johnny English (taglined in some countries as Little Brother of James Bond) is a 2003 spy comedy film directed by Peter Howitt and written by Neal Purvis, Robert Wade and William Davies. It is a British-French venture produced by StudioCanal and Working Title Films, and distributed by Universal Pictures.Starring Rowan Atkinson in the title role, Natalie Imbruglia, Ben Miller and John Malkovich, it is the first installment of the Johnny English film series and serves as a parody and homage to the spy genre, mainly the James Bond film series, as well as Atkinson's Mr. Bean character. The character is also related to Atkinson's bumbling spy character from a series of adverts in the United Kingdom for Barclaycard in the 1990s."
+        },
+        {
+            "id":"1012",
+            "title":"Warcraft",
+            "bg":"bg12.jpg",
+            "brief":"Warcraft (alternatively known as Warcraft: The Beginning)[4] is a 2016 American action fantasy film based on the video game series of the same name. Directed by Duncan Jones and written by Charles Leavitt and Jones, it stars Travis Fimmel, Paula Patton, Ben Foster, Dominic Cooper, Toby Kebbell, Ben Schnetzer, Robert Kazinsky, Clancy Brown, and Daniel Wu."
+        },
+        {
+            "id":"1013",
+            "title":"Rampage",
+            "bg":"bg13.jpg",
+            "brief":"Rampage is a 2018 American science fiction monster film directed by Brad Peyton and loosely based on the video game series of the same name by Midway Games. The film stars Dwayne Johnson, Naomie Harris, Malin Åkerman, Jake Lacy, Joe Manganiello, and Jeffrey Dean Morgan. It follows a primatologist who must team up with George, an albino western lowland gorilla who turns into a raging creature of enormous size as a result of a rogue experiment, to stop two other mutated animals from destroying Chicago."
+        },
+        {
+            "id":"1014",
+            "title":"Iron Lady",
+            "bg":"bg14.jpg",
+            "brief":"The Iron Lady is a 2011 British biographical drama film based on the life and career of Margaret Thatcher, a British politician who was the longest-serving Prime Minister of the United Kingdom of the 20th century and the first woman to hold the office.[5] The film was directed by Phyllida Lloyd and written by Abi Morgan. Thatcher is portrayed primarily by Meryl Streep,[6] and, in her formative and early political years, by Alexandra Roach. Thatcher's husband, Denis Thatcher, is portrayed by Jim Broadbent, and by Harry Lloyd as the younger Denis. Thatcher's longest-serving cabinet member and eventual deputy, Geoffrey Howe, is portrayed by Anthony Head.[7]"
+        },
+        {
+            "id":"1015",
+            "title":"Justice League",
+            "bg":"bg15.jpg",
+            "brief":"Justice League is a 2017 American superhero film based on the DC Comics superhero team of the same name. Produced by RatPac-Dune Entertainment,[N 2] DC Films, Atlas Entertainment, and Cruel and Unusual Films and distributed by Warner Bros. Pictures, it is the fifth installment in the DC Extended Universe (DCEU) and the follow-up to Batman v Superman: Dawn of Justice.[7][8][9] Directed by Zack Snyder and written by Chris Terrio and Joss Whedon, the film features an ensemble cast including Ben Affleck, Henry Cavill, Amy Adams, Gal Gadot, Ezra Miller, Jason Momoa, Ray Fisher, Jeremy Irons, Diane Lane, Connie Nielsen, J. K. Simmons, and Ciarán Hinds. In the film, Batman and Wonder Woman recruit The Flash, Aquaman, and Cyborg after the death of Superman to save the world from the catastrophic threat of Steppenwolf and his army of Parademons."
+        },
+        {
+            "id":"1016",
+            "title":"Doctor Strange",
+            "bg":"bg16.jpg",
+            "brief":"Doctor Strange is a 2016 American superhero film based on the Marvel Comics character of the same name. Produced by Marvel Studios and distributed by Walt Disney Studios Motion Pictures, it is the 14th film in the Marvel Cinematic Universe (MCU). The film was directed by Scott Derrickson from a screenplay he wrote with Jon Spaihts and C. Robert Cargill, and stars Benedict Cumberbatch as neurosurgeon Stephen Strange along with Chiwetel Ejiofor, Rachel McAdams, Benedict Wong, Michael Stuhlbarg, Benjamin Bratt, Scott Adkins, Mads Mikkelsen, and Tilda Swinton. In the film, Strange learns the mystic arts after a career-ending car crash."
+        },
+        {
+            "id":"1017",
+            "title":"Captain Marvel",
+            "bg":"bg17.jpg",
+            "brief":"Captain Marvel is a 2019 American superhero film based on Marvel Comics featuring the character Carol Danvers / Captain Marvel. Produced by Marvel Studios and distributed by Walt Disney Studios Motion Pictures, it is the 21st film in the Marvel Cinematic Universe (MCU). The film was written and directed by Anna Boden and Ryan Fleck, with Geneva Robertson-Dworet also contributing to the screenplay. Brie Larson stars as Carol Danvers, alongside Samuel L. Jackson, Ben Mendelsohn, Djimon Hounsou, Lee Pace, Lashana Lynch, Gemma Chan, Annette Bening, Clark Gregg, and Jude Law. Set in 1995, the story follows Danvers as she becomes Captain Marvel after Earth is caught in the center of a galactic conflict between two alien civilizations."
+        },
+        {
+            "id":"1018",
+            "title":"Black Widow",
+            "bg":"bg18.jpg",
+            "brief":"Black Widow is a 2021 American superhero film based on Marvel Comics featuring the character of the same name. Produced by Marvel Studios and distributed by Walt Disney Studios Motion Pictures, it is the 24th film in the Marvel Cinematic Universe (MCU). The film was directed by Cate Shortland from a screenplay by Eric Pearson, and stars Scarlett Johansson as Natasha Romanoff / Black Widow alongside Florence Pugh, David Harbour, O-T Fagbenle, Olga Kurylenko, William Hurt, Ray Winstone, and Rachel Weisz. Set after the events of Captain America: Civil War (2016), the film sees Romanoff on the run and forced to confront her past."
+        },
+        {
+            "id":"1019",
+            "title":"Antman",
+            "bg":"bg19.jpg",
+            "brief":"Ant-Man is a 2015 American superhero film based on the Marvel Comics characters of the same name: Scott Lang and Hank Pym. Produced by Marvel Studios and distributed by Walt Disney Studios Motion Pictures, it is the 12th film in the Marvel Cinematic Universe (MCU). The film was directed by Peyton Reed from a screenplay by the writing teams of Edgar Wright and Joe Cornish, and Adam McKay and Paul Rudd. It stars Rudd as Scott Lang / Ant-Man alongside Evangeline Lilly, Corey Stoll, Bobby Cannavale, Michael Peña, Tip Harris, Anthony Mackie, Wood Harris, Judy Greer, David Dastmalchian, and Michael Douglas as Hank Pym. In the film, Lang must help defend Pym's Ant-Man shrinking technology and plot a heist with worldwide ramifications."
+        },
+        {
+            "id":"1020",
+            "title":"Guardians of the Galaxy",
+            "bg":"bg20.jpg",
+            "brief":"Guardians of the Galaxy (retroactively referred to as Guardians of the Galaxy Vol. 1)[4][5] is a 2014 American superhero film based on the Marvel Comics superhero team of the same name. Produced by Marvel Studios and distributed by Walt Disney Studios Motion Pictures, it is the 10th film in the Marvel Cinematic Universe (MCU). Directed by James Gunn, who wrote the screenplay with Nicole Perlman, the film features an ensemble cast including Chris Pratt, Zoe Saldana, Dave Bautista, Vin Diesel, and Bradley Cooper as the titular Guardians, along with Lee Pace, Michael Rooker, Karen Gillan, Djimon Hounsou, John C. Reilly, Glenn Close, and Benicio del Toro. In the film, Peter Quill and a group of extraterrestrial criminals go on the run after stealing a powerful artifact."
+        }
+        
+    ]
+}

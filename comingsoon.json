@@ -1,0 +1,85 @@
+{
+    "coming":
+    [
+        { 
+            "id":"1011",
+            "image":"img/coming1.jpg",
+            "title":"Jhonny English",
+            "desc":"Spy Comedy",
+            "star":"9",
+            "time":"115"
+        },
+        {
+            "id":"1012",
+            "image":"img/coming2.jpg",
+            "title":"Warcraft",
+            "desc":"Fantasy Mystic",
+            "star":"8.5",
+            "time":"120"
+        },
+        {
+            "id":"1013",
+            "image":"img/coming3.jpg",
+            "title":"Rampage",
+            "desc":"Action Violence",
+            "star":"8",
+            "time":"125"
+        },
+        {
+            "id":"1014",
+            "image":"img/coming4.jpg",
+            "title":"Iron Lady",
+            "desc":"Drama Political",
+            "star":"8.5",
+            "time":"105"
+        },
+        {
+            "id":"1015",
+            "image":"img/coming5.jpg",
+            "title":"Justice League",
+            "desc":"Action Fantasy",
+            "star":"9.5",
+            "time":"115"
+        },
+        {
+            "id":"1016",
+            "image":"img/coming6.jpeg",
+            "title":"Doctor Strange",
+            "desc":"Action Mystic",
+            "star":"9",
+            "time":"125"
+        },
+        {
+            "id":"1017",
+            "image":"img/coming7.jpg",
+            "title":"Captain Marvel",
+            "desc":"Action Drama",
+            "star":"7.5",
+            "time":"130"
+        },
+        {
+            "id":"1018",
+            "image":"img/coming8.jpg",
+            "title":"Black Widow",
+            "desc":"Action Fantasy",
+            "star":"8",
+            "time":"125"
+        },
+        {
+            "id":"1019",
+            "image":"img/coming9.jpg",
+            "title":"Antman",
+            "desc":"Action Fantasy",
+            "star":"9",
+            "time":"118"
+        },
+        {
+            "id":"1020",
+            "image":"img/coming10.jpg",
+            "title":"Guardians of the Galaxy",
+            "desc":"Action Mystic",
+            "star":"9",
+            "time":"122"
+        }
+    ]
+}
